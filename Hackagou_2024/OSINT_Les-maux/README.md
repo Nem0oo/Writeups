@@ -9,7 +9,12 @@ Cette créature, connue sous le nom de Te Ara, aurait le pouvoir de rallonger l
 C'est ainsi que naquit la légende de la toile d'or, où les vents, les vagues et le destin sont tous liés par des fils invisibles.
 
 ```
-sur l’océan vaste, en Rallongement des jours, une créature veille, d’un regard sans détour. une toile Arachnide tissée dans le vent, ses fils Raffinant les mystères du temps. ```
+sur l’océan vaste,
+en Rallongement des jours,
+une créature veille, d’un regard sans détour.
+une toile Arachnide tissée dans le vent,
+ses fils Raffinant les mystères du temps.
+```
 
 Mais quelque chose me dit que ce n'est pas qu'une simple légende et qu'elle existe. Ce poême "écrit" nous révélera peut-être où elle se cache ?
 
@@ -32,5 +37,6 @@ Tient donc, 3 mots qui devraient nous donner une position.
 
 On arrive sur Norfolk island
 
-On en deduit le flag OPENNC{NorfolkIsland} (Le format est potentiellement faux, je n'ai pas noté le flag)
+_(Le format est potentiellement faux, je n'ai pas noté le flag)_
+On en deduit le flag OPENNC{NorfolkIsland} 
 
