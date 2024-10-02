@@ -128,3 +128,5 @@ data = client_socket.recv(1024)
 msg = data.decode("utf-8")
 print(msg)
 
+
+#flag : OPENNC{B1n4rY_1s_F0r_31337_0nLY}
