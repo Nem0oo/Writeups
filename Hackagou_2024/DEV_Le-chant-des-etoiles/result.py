@@ -38,10 +38,10 @@ and_int = int(n1, 2)&int(n2, 2)
 #on format en string binaire
 and_bin = "{0:b}".format(and_int)
 
-#Affichage pour confirmer ce qu'on envoie'
+#Affichage pour confirmer ce qu'on envoie
 print(and_bin.zfill(8))
 
-#on envoie au serveur
+#on envoie au serveur sans oublié le "\n" a la fin de la string
 client_socket.send(bytes(and_bin.zfill(8), 'utf-8')+ b"\n")
 
 #Meme demarche pour la suite avec les autrre calculs
