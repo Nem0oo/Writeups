@@ -18,7 +18,7 @@ Image du challenge réalisée par : @Toudou_ben
 
 _Image dans le dossier_
 
-![Chall](https://github.com/Nem0oo/Writeups/blob/main/chall.jpg?raw=true)
+![Chall](https://github.com/Nem0oo/Writeups/blob/main/Hackagou_2024/CRYPTO_La-perle-maudite/chall.jpg?raw=true)
 
 
 ## Solution
