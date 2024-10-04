@@ -18,6 +18,9 @@ Image du challenge réalisée par : @Toudou_ben
 
 _Image dans le dossier_
 
+![Chall](https://github.com/Nem0oo/Writeups/blob/main/chall.jpg?raw=true)
+
+
 ## Solution
 On doit chercher à faire correspondre des symboles à des lettres, avec si peu de symboles, il est improbable que l'encodage que l'encodage ne soit pas deja connu.
 
